@@ -1,19 +1,19 @@
-# ZOMATO DATA ANALYSIS
+## ZOMATO DATA ANALYSIS
 
-## Introduction:
+### Introduction:
 Zomato Data Analysis using SQL
 .
-## Objective: 
+### Objective: 
 Analyzed Zomato data to optimize marketing strategies and enhance customer satisfaction. 
 
-## Methodology:
+### Methodology:
 Utilized SQL queries to extract and transform data, conducting analyses on customer spending, and product popularity.
 
-## Findings: 
+### Findings: 
 Identified high-spending customers, popular menu items, and post-membership purchasing behavior.
 
-## Skills Used:
+### Skills Used:
 Proficient in SQL querying, window functions, and joins for advanced data analysis. 
 
-## Conclusion:
+### Conclusion:
 Demonstrated ability to derive actionable insights from data to drive informed business decisions.
